@@ -11,7 +11,7 @@ from discord.ext import tasks
 
 
 class CONFIG:
-    TOKEN = "OTUwOTg1MTg4NjQ3Nzk2NzQ3.Yig3-Q.rhlLLYxt2p6P6il9KiqxTNjYsTk"  # Tokeno inja bezar
+    TOKEN = ""  # Tokeno inja bezar
     PREFIX = "!"
 
 
